@@ -1,8 +1,7 @@
 # Hackathon
 
-AWFLOW
-HashNode Blog    
-- By Debuggers
+AWFLOW    
+By Debuggers
 
 ## Problem Statement
 Our problem statement was to develop an application that focuses on estimating air and water turbidity using a smartphone. Air quality estimation involves imaging of the sun by placing appropriate light diffusing mechanisms using hardware and development of an application to process different sun geometry or controllers to estimate the atmospheric optical thickness. On the other hand, water quality is determined by finding dynamic water turbidity value and its analysis using IR turbidity sensors.

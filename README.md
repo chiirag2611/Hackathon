@@ -18,8 +18,8 @@ Using this application we can find the turbidity of air and water,then on the ba
 ## Gaps & Challenges in Existing Solutions 
 
 The existing solutions of the similar problem have 2 main challenges:
-We need different applications and hardwares to determine air turbidity and water turbidity.
-Other methods focus mainly on the hardware ,whereas the proposed solution uses a compact hardware and is majorly based on software.
+- We need different applications and hardwares to determine air turbidity and water turbidity.
+- Other methods focus mainly on the hardware ,whereas the proposed solution uses a compact hardware and is majorly based on software.
 
 ## Our Idea / Solution 
 

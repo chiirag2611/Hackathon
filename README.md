@@ -83,7 +83,7 @@ The scattering of light by reflection or transmission. Diffuse reflection result
 3. Optical thickness :
 In physics, optical depth or optical thickness is the natural logarithm of the ratio of incident to transmitted radiant power through a material, and spectral optical depth or spectral optical thickness is the natural logarithm of the ratio of incident to transmitted spectral radiant power through a material.
 4. Sun Geometry :
-Sun GEOMETRY IS THE DETERMINING FACTOR OF HEAT GAIN, SHADING AND THE POTENTIAL OF DAYLIGHT PENETRATION...” Temperature, precipitation, wind and sunshine have a direct effect on buildings. A deliberate choice of surroundings may permit us to take advantage of the elements that make the environment more favorable in calculating turbidity
+Sun geometry is the determining factor of heat gain, shading and the potential of daylight penetration. Temperature, precipitation, wind and sunshine have a direct effect on buildings. A deliberate choice of surroundings may permit us to take advantage of the elements that make the environment more favorable in calculating turbidity
 
 ### WATER TURBIDITY
 
@@ -114,7 +114,7 @@ where
 - c = since the medium is a solution, the concentration is included
 - αa = absorption coefficient.
 - αb = scattering coefficient.
-- 
+
 If the solution consists of particles with different absorbing and scattering coefficients, the total absorption and scattering coefficient, αa and αs, are equal to the sum of the absorption and scattering coefficients of all the particles.
 
 ## Your Learnings & Takeaways 

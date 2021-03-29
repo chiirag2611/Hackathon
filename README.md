@@ -107,13 +107,14 @@ The inner wall of the Nylon block is blackened so that the effect of the ambient
 When light is transmitted onto a water body, the suspended particles will block the transmission of light from going through the water. In pure or very clear water, the light transmission will be largely uninterrupted, with a small scattering effect. The pattern of interaction between light and suspended solids is depending on the size, shape and composition of the particles in the solution and on the wavelength of the incident light. Besides the scattering effect, the transmitted light will also be absorbed and attenuated in its intensity by the particles . Therefore, the equation can be derived based on Beer-Lambert law as shown by
 I=Ioexp(−[αa+αb]xc)
 where
-1. I = resultant light intensity
-2. I0 = light intensity at point 0.
-0 = starting point of the light passage through the absorbing medium.
-X = length of the medium or the distance of light travel through the medium.
-c = since the medium is a solution, the concentration is included
-αa = absorption coefficient.
-αb = scattering coefficient.
+- I = resultant light intensity
+- I0 = light intensity at point 0.
+- 0 = starting point of the light passage through the absorbing medium.
+- X = length of the medium or the distance of light travel through the medium.
+- c = since the medium is a solution, the concentration is included
+- αa = absorption coefficient.
+- αb = scattering coefficient.
+- 
 If the solution consists of particles with different absorbing and scattering coefficients, the total absorption and scattering coefficient, αa and αs, are equal to the sum of the absorption and scattering coefficients of all the particles.
 
 ## Your Learnings & Takeaways 
